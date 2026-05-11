@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        "": true,
+        "coding and designing the project": true
+    },
+    "search.exclude": {
+        "coding and designing projects": true
+    },
+    "search.useGlobalIgnoreFiles": true
+}
